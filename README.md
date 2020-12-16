@@ -1,0 +1,2 @@
+# NTNU
+Projects from school
